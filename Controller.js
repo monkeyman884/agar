@@ -22,7 +22,7 @@ var COMMANDS = {
   // sure, they're mapped to a keypress of the q key and 19 is also mapped to an onblur
   QUIT: 18,
   CLEAR: 19,
-  EJECT_MASS: 21
+  EJECT_MASS: 300
 };
 
 /**
